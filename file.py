@@ -7,5 +7,5 @@ Created on Thu Oct  8 08:41:16 2020
 
 
 def func(a, b):
-    return a + b * 2
+    return a + b * 2 * 3
 
